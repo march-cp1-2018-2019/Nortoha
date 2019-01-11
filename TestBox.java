@@ -17,8 +17,8 @@ public class TestBox {
 	
 	public void go() {
 		j=i.intValue();
+		
 		System.out.println(j);
 		System.out.println(i);
-		
 	}
 }
